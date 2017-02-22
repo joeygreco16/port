@@ -1,0 +1,5 @@
+<div class="col-xs-12 col-sm-6 blip wow slideInRight" data-wow-duration="2s">
+  <h2>Who am I?</h2>
+  <p>A Canadian based web developer with a passion for creating beautiful, dynamic web experiences to fit your needs and exceed your expectations. Let's get in touch and <span id="idea">bring your idea to life.</span> I look forward to hearing from you.</p>
+  <button href="#contact" class="wow fadeIn" data-wow-delay="1.5s" type="button" name="button">Get in touch <i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+</div>
